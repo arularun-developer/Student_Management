@@ -23,7 +23,7 @@ Admins can both update and delete student marks. This includes the flexibility t
 Backend Deployment URL: https://student-management-qiyx.onrender.com
 
 
-Backend Documentation URL: https://planetary-desert-760380.postman.co/workspace/a66d733f-9b74-4766-8bf3-a059dbf80612/documentation/29696981-ed1c83c7-73f8-4590-bce9-5c623c30d616
+Backend Documentation URL: https://documenter.getpostman.com/view/29696981/2sA2xjzB1e
 
 
 
